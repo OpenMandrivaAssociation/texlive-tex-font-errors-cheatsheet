@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-tex-font-errors-cheatsheet
 Version:	0.1
-Release:	10
+Release:	11
 Summary:	Cheat sheet outlining the most common TeX font errors
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/tex-font-errors-cheatsheet
