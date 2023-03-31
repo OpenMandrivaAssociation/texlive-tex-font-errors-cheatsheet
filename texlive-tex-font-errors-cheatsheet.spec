@@ -1,6 +1,6 @@
 Name:		texlive-tex-font-errors-cheatsheet
 Version:	18314
-Release:	1
+Release:	2
 Summary:	Cheat sheet outlining the most common TeX font errors
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/tex-font-errors-cheatsheet
