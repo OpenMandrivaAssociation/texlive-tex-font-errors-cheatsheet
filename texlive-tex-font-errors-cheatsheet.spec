@@ -3,7 +3,7 @@ Version:	18314
 Release:	2
 Summary:	Cheat sheet outlining the most common TeX font errors
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/info/tex-font-errors-cheatsheet
+URL:		https://www.ctan.org/tex-archive/info/tex-font-errors-cheatsheet
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tex-font-errors-cheatsheet.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tex-font-errors-cheatsheet.doc.r%{version}.tar.xz
